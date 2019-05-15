@@ -1,0 +1,12 @@
+E:\Nam4\HK2\Web nang cao\pp\QuanLyTrungTam\Model\bin\Debug\Model.dll.config
+E:\Nam4\HK2\Web nang cao\pp\QuanLyTrungTam\Model\bin\Debug\Model.dll
+E:\Nam4\HK2\Web nang cao\pp\QuanLyTrungTam\Model\bin\Debug\Model.pdb
+E:\Nam4\HK2\Web nang cao\pp\QuanLyTrungTam\Model\bin\Debug\EntityFramework.dll
+E:\Nam4\HK2\Web nang cao\pp\QuanLyTrungTam\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Nam4\HK2\Web nang cao\pp\QuanLyTrungTam\Model\bin\Debug\EntityFramework.xml
+E:\Nam4\HK2\Web nang cao\pp\QuanLyTrungTam\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Nam4\HK2\Web nang cao\pp\QuanLyTrungTam\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\Nam4\HK2\Web nang cao\pp\QuanLyTrungTam\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\Nam4\HK2\Web nang cao\pp\QuanLyTrungTam\Model\obj\Debug\Model.csproj.CopyComplete
+E:\Nam4\HK2\Web nang cao\pp\QuanLyTrungTam\Model\obj\Debug\Model.dll
+E:\Nam4\HK2\Web nang cao\pp\QuanLyTrungTam\Model\obj\Debug\Model.pdb
